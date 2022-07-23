@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="goodbgback.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="goodbgback0000" x="0" y="0" width="2646" height="1300"/>
+	<SubTexture name="goodbgback0001" x="0" y="0" width="2646" height="1300"/>
+	<SubTexture name="goodbgback0002" x="2658" y="0" width="2646" height="1300"/>
+	<SubTexture name="goodbgback0003" x="2658" y="0" width="2646" height="1300"/>
+	<SubTexture name="goodbgback0004" x="5316" y="0" width="2646" height="1300"/>
+	<SubTexture name="goodbgback0005" x="5316" y="0" width="2646" height="1300"/>
+	<SubTexture name="goodbgback0006" x="0" y="1312" width="2646" height="1300"/>
+	<SubTexture name="goodbgback0007" x="0" y="1312" width="2646" height="1300"/>
+</TextureAtlas>

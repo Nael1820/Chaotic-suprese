@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="goodgoodbgelements.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="goodbgelements0000" x="0" y="0" width="2361" height="1016"/>
+	<SubTexture name="goodbgelements0001" x="0" y="0" width="2361" height="1016"/>
+	<SubTexture name="goodbgelements0002" x="2373" y="0" width="2361" height="1016"/>
+	<SubTexture name="goodbgelements0003" x="2373" y="0" width="2361" height="1016"/>
+	<SubTexture name="goodbgelements0004" x="4746" y="0" width="2356" height="1016" frameX="-5" frameY="0" frameWidth="2361" frameHeight="1016"/>
+	<SubTexture name="goodbgelements0005" x="4746" y="0" width="2356" height="1016" frameX="-5" frameY="0" frameWidth="2361" frameHeight="1016"/>
+	<SubTexture name="goodbgelements0006" x="0" y="1028" width="2353" height="1016" frameX="-8" frameY="0" frameWidth="2361" frameHeight="1016"/>
+	<SubTexture name="goodbgelements0007" x="0" y="1028" width="2353" height="1016" frameX="-8" frameY="0" frameWidth="2361" frameHeight="1016"/>
+	<SubTexture name="goodbgelements0008" x="0" y="1028" width="2353" height="1016" frameX="-8" frameY="0" frameWidth="2361" frameHeight="1016"/>
+	<SubTexture name="goodbgelements0009" x="2365" y="1028" width="2354" height="1016" frameX="-7" frameY="0" frameWidth="2361" frameHeight="1016"/>
+	<SubTexture name="goodbgelements0010" x="2365" y="1028" width="2354" height="1016" frameX="-7" frameY="0" frameWidth="2361" frameHeight="1016"/>
+	<SubTexture name="goodbgelements0011" x="4731" y="1028" width="2357" height="1016" frameX="-4" frameY="0" frameWidth="2361" frameHeight="1016"/>
+	<SubTexture name="goodbgelements0012" x="4731" y="1028" width="2357" height="1016" frameX="-4" frameY="0" frameWidth="2361" frameHeight="1016"/>
+	<SubTexture name="goodbgelements0013" x="0" y="0" width="2361" height="1016"/>
+	<SubTexture name="goodbgelements0014" x="0" y="0" width="2361" height="1016"/>
+	<SubTexture name="goodbgelements0015" x="0" y="0" width="2361" height="1016"/>
+	<SubTexture name="goodbgelements0016" x="0" y="0" width="2361" height="1016"/>
+</TextureAtlas>

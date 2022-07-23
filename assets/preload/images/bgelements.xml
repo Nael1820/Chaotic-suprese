@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bgelements.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bgelements0000" x="0" y="0" width="2443" height="1016"/>
+	<SubTexture name="bgelements0001" x="0" y="0" width="2443" height="1016"/>
+	<SubTexture name="bgelements0002" x="2455" y="0" width="2441" height="1016" frameX="-2" frameY="0" frameWidth="2443" frameHeight="1016"/>
+	<SubTexture name="bgelements0003" x="2455" y="0" width="2441" height="1016" frameX="-2" frameY="0" frameWidth="2443" frameHeight="1016"/>
+	<SubTexture name="bgelements0004" x="4908" y="0" width="2424" height="1016" frameX="-19" frameY="0" frameWidth="2443" frameHeight="1016"/>
+	<SubTexture name="bgelements0005" x="4908" y="0" width="2424" height="1016" frameX="-19" frameY="0" frameWidth="2443" frameHeight="1016"/>
+	<SubTexture name="bgelements0006" x="0" y="1028" width="2433" height="1016" frameX="-10" frameY="0" frameWidth="2443" frameHeight="1016"/>
+	<SubTexture name="bgelements0007" x="0" y="1028" width="2433" height="1016" frameX="-10" frameY="0" frameWidth="2443" frameHeight="1016"/>
+	<SubTexture name="bgelements0008" x="2445" y="1028" width="2433" height="1016" frameX="-10" frameY="0" frameWidth="2443" frameHeight="1016"/>
+	<SubTexture name="bgelements0009" x="2445" y="1028" width="2433" height="1016" frameX="-10" frameY="0" frameWidth="2443" frameHeight="1016"/>
+	<SubTexture name="bgelements0010" x="4890" y="1028" width="2443" height="1016"/>
+	<SubTexture name="bgelements0011" x="4890" y="1028" width="2443" height="1016"/>
+	<SubTexture name="bgelements0012" x="0" y="2056" width="2443" height="1016"/>
+	<SubTexture name="bgelements0013" x="0" y="2056" width="2443" height="1016"/>
+	<SubTexture name="bgelements0014" x="0" y="0" width="2443" height="1016"/>
+	<SubTexture name="bgelements0015" x="0" y="0" width="2443" height="1016"/>
+	<SubTexture name="bgelements0016" x="0" y="0" width="2443" height="1016"/>
+	<SubTexture name="bgelements0017" x="0" y="0" width="2443" height="1016"/>
+</TextureAtlas>
