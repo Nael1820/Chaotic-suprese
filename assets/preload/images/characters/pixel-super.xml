@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="pixel-super.png">
+	<!-- Created with Adobe Animate version 20.0.0.17400 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="super down0000" x="0" y="0" width="64" height="67"/>
+	<SubTexture name="super down0001" x="0" y="0" width="64" height="67"/>
+	<SubTexture name="super down0002" x="76" y="0" width="47" height="58" frameX="-5" frameY="-1" frameWidth="64" frameHeight="67"/>
+	<SubTexture name="super down0003" x="76" y="0" width="47" height="58" frameX="-5" frameY="-1" frameWidth="64" frameHeight="67"/>
+	<SubTexture name="super down0004" x="76" y="0" width="47" height="58" frameX="-5" frameY="-1" frameWidth="64" frameHeight="67"/>
+	<SubTexture name="super down0005" x="76" y="0" width="47" height="58" frameX="-5" frameY="-1" frameWidth="64" frameHeight="67"/>
+	<SubTexture name="super idle0000" x="135" y="0" width="47" height="61" frameX="0" frameY="0" frameWidth="49" frameHeight="70"/>
+	<SubTexture name="super idle0001" x="135" y="0" width="47" height="61" frameX="0" frameY="0" frameWidth="49" frameHeight="70"/>
+	<SubTexture name="super idle0002" x="194" y="0" width="45" height="59" frameX="0" frameY="-4" frameWidth="49" frameHeight="70"/>
+	<SubTexture name="super idle0003" x="194" y="0" width="45" height="59" frameX="0" frameY="-4" frameWidth="49" frameHeight="70"/>
+	<SubTexture name="super idle0004" x="0" y="79" width="41" height="65" frameX="-2" frameY="-5" frameWidth="49" frameHeight="70"/>
+	<SubTexture name="super idle0005" x="0" y="79" width="41" height="65" frameX="-2" frameY="-5" frameWidth="49" frameHeight="70"/>
+	<SubTexture name="super idle0006" x="53" y="79" width="49" height="61" frameX="0" frameY="-2" frameWidth="49" frameHeight="70"/>
+	<SubTexture name="super idle0007" x="53" y="79" width="49" height="61" frameX="0" frameY="-2" frameWidth="49" frameHeight="70"/>
+	<SubTexture name="super idle0008" x="53" y="79" width="49" height="61" frameX="0" frameY="-2" frameWidth="49" frameHeight="70"/>
+	<SubTexture name="super idle0009" x="53" y="79" width="49" height="61" frameX="0" frameY="-2" frameWidth="49" frameHeight="70"/>
+	<SubTexture name="super idle0010" x="53" y="79" width="49" height="61" frameX="0" frameY="-2" frameWidth="49" frameHeight="70"/>
+	<SubTexture name="super idle0011" x="53" y="79" width="49" height="61" frameX="0" frameY="-2" frameWidth="49" frameHeight="70"/>
+	<SubTexture name="super idle0012" x="53" y="79" width="49" height="61" frameX="0" frameY="-2" frameWidth="49" frameHeight="70"/>
+	<SubTexture name="super idle0013" x="53" y="79" width="49" height="61" frameX="0" frameY="-2" frameWidth="49" frameHeight="70"/>
+	<SubTexture name="super left0000" x="114" y="79" width="40" height="58" frameX="0" frameY="0" frameWidth="42" frameHeight="59"/>
+	<SubTexture name="super left0001" x="114" y="79" width="40" height="58" frameX="0" frameY="0" frameWidth="42" frameHeight="59"/>
+	<SubTexture name="super left0002" x="166" y="79" width="38" height="58" frameX="-4" frameY="-1" frameWidth="42" frameHeight="59"/>
+	<SubTexture name="super left0003" x="166" y="79" width="38" height="58" frameX="-4" frameY="-1" frameWidth="42" frameHeight="59"/>
+	<SubTexture name="super left0004" x="166" y="79" width="38" height="58" frameX="-4" frameY="-1" frameWidth="42" frameHeight="59"/>
+	<SubTexture name="super left0005" x="166" y="79" width="38" height="58" frameX="-4" frameY="-1" frameWidth="42" frameHeight="59"/>
+	<SubTexture name="super right0000" x="0" y="156" width="43" height="59" frameX="-1" frameY="0" frameWidth="44" frameHeight="59"/>
+	<SubTexture name="super right0001" x="0" y="156" width="43" height="59" frameX="-1" frameY="0" frameWidth="44" frameHeight="59"/>
+	<SubTexture name="super right0002" x="55" y="156" width="43" height="57" frameX="0" frameY="-1" frameWidth="44" frameHeight="59"/>
+	<SubTexture name="super right0003" x="55" y="156" width="43" height="57" frameX="0" frameY="-1" frameWidth="44" frameHeight="59"/>
+	<SubTexture name="super right0004" x="55" y="156" width="43" height="57" frameX="0" frameY="-1" frameWidth="44" frameHeight="59"/>
+	<SubTexture name="super right0005" x="55" y="156" width="43" height="57" frameX="0" frameY="-1" frameWidth="44" frameHeight="59"/>
+	<SubTexture name="super up0000" x="110" y="156" width="46" height="67"/>
+	<SubTexture name="super up0001" x="110" y="156" width="46" height="67"/>
+	<SubTexture name="super up0002" x="168" y="156" width="41" height="56" frameX="-1" frameY="-8" frameWidth="46" frameHeight="67"/>
+	<SubTexture name="super up0003" x="168" y="156" width="41" height="56" frameX="-1" frameY="-8" frameWidth="46" frameHeight="67"/>
+	<SubTexture name="super up0004" x="168" y="156" width="41" height="56" frameX="-1" frameY="-8" frameWidth="46" frameHeight="67"/>
+	<SubTexture name="super up0005" x="168" y="156" width="41" height="56" frameX="-1" frameY="-8" frameWidth="46" frameHeight="67"/>
+</TextureAtlas>
