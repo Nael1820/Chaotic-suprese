@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-110,
+				-190
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "super idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-71,
+				-277
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "super down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				-206
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "super left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-113,
+				-148
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "super up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-191,
+				-218
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "super right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ghostsupersonic",
+	"position": [
+		590,
+		-110
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		-260,
+		240
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}
